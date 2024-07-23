@@ -19,5 +19,5 @@ This repository automatically syncs my solutions for Data Structures and Algorit
 To set up this repository on your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/Amar66621/DSA-Problem-Solving/tree/main
 cd DSA-Problem-Solving
