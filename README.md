@@ -20,4 +20,3 @@ To set up this repository on your local machine:
 
 ```bash
 git clone https://github.com/Amar66621/DSA-Problem-Solving/tree/main
-cd DSA-Problem-Solving
